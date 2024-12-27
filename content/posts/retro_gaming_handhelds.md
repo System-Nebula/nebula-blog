@@ -24,6 +24,6 @@ The devices I purchased were the Ambernic 35xxH and the TrimUI Smart Pro. Buying
 ![Ambernic 35xx H Product Image](https://anbernic.com/cdn/shop/files/14_c2ec95e4-4aee-490b-b978-ea4c624ec0f9.jpg?v=1725681455&width=700)
 
 ( testing image attachment? )
-![image](https://github.com/user-attachments/assets/31db9db2-e181-4b9f-9fbf-075aac93161a)
+![TrimUI Smart Pro Product Image](https://github.com/user-attachments/assets/31db9db2-e181-4b9f-9fbf-075aac93161a)
 
 The trimui smart pro was ordered from mechdiy and shipped from china so it arrived a good week or so after the ambernic device. While I don't think this device is worth the list price, if you can get it for that 60-70$ range the value proposition looks better. Compared to the Ambernic the TrimUI smart pro has a much larger 720p which makes it appealing for widescreen games.
