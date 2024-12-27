@@ -2,10 +2,6 @@ baseURL = '/'
 languageCode = 'en-us'
 #title = 'Nebula Blog'
 paginate = 5
-[languages]
-[[languages.en.params]]
-    languageName = "English"
-    title = "Nebula Blog"
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -34,6 +30,12 @@ paginate = 5
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
   showLastUpdated = false
+
+[languages]
+[[languages.en.params]]
+    languageName = "English"
+    title = "Nebula Blog"
+
 [module]
 [[module.imports]]
     path = 'github.com/mirus-ua/hugo-theme-re-terminal'
