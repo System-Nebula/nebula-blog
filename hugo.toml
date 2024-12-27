@@ -1,7 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Nebula Blog'
-theme = "re-terminal"
 paginate = 5
 [params]
   # dir name of your main content (default is `content/posts`).
