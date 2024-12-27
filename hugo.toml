@@ -37,7 +37,7 @@ paginate = 5
     title = "Nebula Blog"
   [languages.en.params.logo]
     logoText = "Nebula Blog"
-    logoHomeLink = "/"
+    logoHomeLink = "/nebula-blog"
 
 [module]
 [[module.imports]]
