@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Nebula Blog'
+#title = 'Nebula Blog'
 paginate = 5
 [languages]
 [[languages.en.params]]
