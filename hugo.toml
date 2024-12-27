@@ -32,7 +32,7 @@ paginate = 5
   showLastUpdated = false
 
 [languages]
-[[languages.en.params]]
+  [languages.en.params]
     languageName = "English"
     title = "Nebula Blog"
 
