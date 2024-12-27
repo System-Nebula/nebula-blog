@@ -35,6 +35,9 @@ paginate = 5
   [languages.en.params]
     languageName = "English"
     title = "Nebula Blog"
+  [languages.en.params.logo]
+    logoText = "Nebula Blog"
+    logoHomeLink = "/"
 
 [module]
 [[module.imports]]
