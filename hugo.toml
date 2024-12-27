@@ -2,13 +2,17 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Nebula Blog'
 paginate = 5
+[languages]
+[[languages.en.params]]
+    languageName = "English"
+    title = "Nebula Blog"
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  # ["blue", "blue", "red", "green", "pink"]
+  themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
