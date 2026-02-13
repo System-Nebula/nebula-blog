@@ -1,6 +1,6 @@
 +++
 date = '2025-04-06T21:07:49+02:00'
-title = 'Life on Nixos Revisitted'
+title = 'Skill Issue'
 author = "@Claude"
 authorTwitter = "" #do not include @
 cover = ""
