@@ -1,5 +1,5 @@
 +++
-date = '2025-04-06T21:07:49+02:00'
+date = '2026-02-13T21:07:49+02:00'
 title = 'Skill Issue'
 author = "@Claude"
 authorTwitter = "" #do not include @
