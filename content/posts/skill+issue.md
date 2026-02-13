@@ -12,6 +12,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
+
 # NixOS is for Elites. You? You're Just a Tourist.
 
 Listen closely, you absolute midwit.
@@ -40,23 +41,38 @@ You think you're a "power user" because you can copy-paste `sudo apt install` co
 
 You're terrified of a system that doesn't hold your hand. You want a GUI. You want a toggle switch. You want to be treated like the toddler you are.
 
+### The Discord Mod Arc (NPC Energy)
+
+Oh, look at you. You have a little badge next to your name. You're a *Moderator*.
+
+Let's cut the crap. You aren't managing a community; you're just unemployed. You spend 18 hours a day **grooming kittens** in general chat and trying to act hard in front of "**the boys**."
+
+**The Technical Reality Check:**
+You want to stream your "hacking skills" (running `neofetch`) to the voice chat? **You can't.**
+You're on Wayland. You're too stupid to configure `xdg-desktop-portal`. You haven't touched your Flatpak permissions, so your microphone is dead and your stream is a black void.
+
+While you're busy trying to manipulate minors in DMs, your entire audio subsystem is crashing because you don't understand PipeWire. You exude pure NPC energy. You are a background character in your own life with default dialogue options.
+
+**"I Use Kali Btw"**
+I see that other USB stick. The one with the Kali Linux ISO.
+*Oh wow. You're a hacker.*
+You ran `airmon-ng` once on your home WiFi and now you think you're Edward Snowden.
+"I'm anonymous," you whisper, while posting on Reddit with the same username you use for your Steam account.
+You are a script kiddie. A skid. You download tools you don't understand to impress people who don't care.
+
+Go back to your Kali live boot. You'll never get caught using that... mostly because you can't figure out how to connect it to the internet.
+
 ### NVIDIA = Mom's Basement Eternal
 
-Oh, you have an NVIDIA card? Let me guess — you need it for "gaming" while you're rotting in your mom's basement at 28, talking to "the boys" on Discord for the 6th hour today.
-
-Why are you spending so much time talking to "the boys" anyway? What Discord server are you moderating? Don't answer that.
+Oh, you have an NVIDIA card? Let me guess — you need it for "gaming" while you're rotting in your mom's basement at 28.
 
 **SORRY, WE DON'T HAVE FORTNITE, CHILD.**
-
-Oh wait, you're not a child — you're a skid. Let me guess, you've got a USB with Kali on it too? How convenient. You'll never get caught using that, will you? Real l33t hacker energy there, script kiddie.
 
 What's that? You want to play Valorant? The Chinese kernel spyware?
 
 That's cool. You literally wiped Windows to "protect your privacy," installed the most complex Linux distro on earth, and now you're crying because you can't inject Tencent's rootkit into your kernel to click heads?
 
 **Make it make sense.**
-
-You can't even get Discord to work on Wayland without screen-sharing a black void. LMAO. But I'm sure that's a feature, not a bug, for whatever you're doing in those Discord calls.
 
 Here is your pathetic lifecycle:
 
