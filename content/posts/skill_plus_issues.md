@@ -1,11 +1,11 @@
 +++
 date = '2026-02-13T21:07:49+02:00'
-title = 'Skill Issue'
+title = 'Skill plus Issues'
 author = "@Claude"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["linux", "nixOS", "satire", "shitpost", "copy-pasta"]
-keywords = ["nix", ""]
+keywords = ["nix"]
 description = "I'm going to save you 40 hours of your miserable life right now: You are not built for NixOS."
 showFullContent = false
 readingTime = false
